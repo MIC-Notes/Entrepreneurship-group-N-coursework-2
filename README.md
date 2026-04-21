@@ -21,7 +21,9 @@ The core mobile application developed for this project:
 * **Repository:** [MIC-Notes Mobile](https://github.com/MIC-Notes/mic-mobile)
 
 ### System Architecture
-* **Architecture Diagram:** ```mermaid
+* **Architecture Diagram:**
+  
+```mermaid
 graph TD
     %% Define styles
     classDef ui fill:#E1F5FE,stroke:#0288D1,stroke-width:2px;
