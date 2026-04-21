@@ -20,7 +20,9 @@ This repository contains the final submission assets for **Coursework 2**. It in
 
 ### Final Product
 The core mobile application developed for this project:
+
 **Repository:** [MIC-Notes Mobile](https://github.com/MIC-Notes/mic-mobile)
+
 **Architecture Diagram:**
   
 ```mermaid
