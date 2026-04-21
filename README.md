@@ -17,8 +17,6 @@ This repository contains the final submission assets for **Coursework 2**. It in
 
 ---
 
-## Technical Documentation
-
 ### Final Product
 The core mobile application developed for this project:
 
@@ -90,3 +88,9 @@ graph TD
     LecturesScreen -->|"Saves raw transcript"| FileSystem
     ReaderScreen -->|"Reads raw transcript"| FileSystem
 ```
+
+## Pivot History:
+**Legacy Repositories (Pre-Pivot):**
+
+* [MIC-Notes v1](https://github.com/MIC-Notes/mic-notes)
+* [MIC-Notes v2](https://github.com/MIC-Notes/mic-notes-2)
