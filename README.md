@@ -18,10 +18,8 @@ This repository contains the final submission assets for **Coursework 2**. It in
 
 ### Final Product
 The core mobile application developed for this project:
-* **Repository:** [MIC-Notes Mobile](https://github.com/MIC-Notes/mic-mobile)
-
-### System Architecture
-* **Architecture Diagram:**
+**Repository:** [MIC-Notes Mobile](https://github.com/MIC-Notes/mic-mobile)
+**Architecture Diagram:**
   
 ```mermaid
 graph TD
@@ -87,9 +85,6 @@ graph TD
     LecturesScreen -->|"Saves raw transcript"| FileSystem
     ReaderScreen -->|"Reads raw transcript"| FileSystem
 ```
-* **Pivot History:** For context on our development journey, see our [Coursework One (Pre-Pivot) Documentation](TODO_TOM_C).
-
----
 
 ## Legal & Ethical Compliance
 
