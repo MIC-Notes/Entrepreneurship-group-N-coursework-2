@@ -8,7 +8,7 @@ This repository contains the final submission assets for **Coursework 2**. It in
 
 | Asset | Source / Link | Assigned To | Status |
 | :--- | :--- | :--- | :--- |
-| **Pitch Deck** | [Link to Presentation](LINK_TODO_VARNIE) | Varnie | 🟡 Pending |
+| **Pitch Deck** | [Link to Presentation](https://docs.google.com/presentation/d/12Wf0biEPcASuq50PFNK5GeybYlofFMy-/edit?usp=sharing&ouid=102049752064715129815&rtpof=true&sd=true) | Varnie | 🟡 Pending |
 | **Visual Artefacts** | [/posters-and-visuals](./posters) | Yusuf | 🟡 Pending |
 | **Demo Video** | [Watch Video](UPLOAD_TODO_SAM) | Sam | 🟡 Pending |
 
