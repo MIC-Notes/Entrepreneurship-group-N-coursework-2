@@ -9,7 +9,7 @@ This repository contains the final submission assets for **Coursework 2**. It in
 | Asset | Source / Link |
 | :--- | :--- |
 | **Pitch Deck** | [Link to Presentation](https://docs.google.com/presentation/d/12Wf0biEPcASuq50PFNK5GeybYlofFMy-/edit?usp=sharing&ouid=102049752064715129815&rtpof=true&sd=true) |
-| **Demo Video** | TODO SAM |
+| **Demo Video** | [Link to video](https://drive.google.com/file/d/1e-rniUzP5lG_TX777FRjkKEEvdnLkFYD/view?resourcekey) |
 | **Terms of Service:** | [Link](TODO_BRIAN)
 | **Ethics & Legal Documentation:** | [Link](TODO_BRIAN)
 | **Visual Artefacts** | [TODO YUSUF](./posters) |
