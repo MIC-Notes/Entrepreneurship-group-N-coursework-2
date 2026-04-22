@@ -12,7 +12,7 @@ This repository contains the final submission assets for **Coursework 2**. It in
 | **Demo Video** | [Link to video](https://drive.google.com/file/d/1e-rniUzP5lG_TX777FRjkKEEvdnLkFYD/view?resourcekey) |
 | **Terms of Service:** | [Link](https://docs.google.com/document/d/18IC3k4ufwYj51H2M9RHtdDUm9bPTi-7cp-ayAAjDKEc/edit?usp=sharing)
 | **Privacy Policy:**| [Link](https://docs.google.com/document/d/1JBY9RMuqFKJPx1GDQpJetP-dtRSsvs_0wMZaxlJY6lo/edit?usp=sharing)
-| **Ethics & Legal Documentation:** | [Link](TODO_BRIAN)
+| **Ethics & Legal Documentation:** | [Link](https://docs.google.com/document/d/1ncb2Ket0lH9vrZ9JuE1ko4sGBeRJ3hBYsv3HTkcRTv0/edit?usp=sharing)
 | **Visual Artefacts** | [TODO YUSUF](./posters) |
 | **Code** | [Github repository](https://github.com/MIC-Notes/mic-mobile)|
 
