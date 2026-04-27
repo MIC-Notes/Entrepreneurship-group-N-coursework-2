@@ -15,6 +15,7 @@ This repository contains the final submission assets for **Coursework 2**. It in
 | **Ethics & Legal Documentation:** | [Link](https://docs.google.com/document/d/1ncb2Ket0lH9vrZ9JuE1ko4sGBeRJ3hBYsv3HTkcRTv0/edit?usp=sharing)
 | **Visual Artefacts** | [TODO YUSUF](./posters) |
 | **Code** | [Github repository](https://github.com/MIC-Notes/mic-mobile)|
+| **User Feedback Document** | [User Feedback](./User_Feedback)|
 
 ---
 
