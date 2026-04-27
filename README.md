@@ -96,3 +96,23 @@ graph TD
 
 * [MIC-Notes v1](https://github.com/MIC-Notes/mic-notes)
 * [MIC-Notes v2](https://github.com/MIC-Notes/mic-notes-2)
+
+### Design:
+
+<table style="width:100%">
+  <tr>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.58.59.png" width="100%" alt="Screen 1"></td>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.59.02.png" width="100%" alt="Screen 2"></td>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.59.05.png" width="100%" alt="Screen 3"></td>
+  </tr>
+  <tr>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.59.09.png" width="100%" alt="Screen 4"></td>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.59.12.png" width="100%" alt="Screen 5"></td>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.59.15.png" width="100%" alt="Screen 6"></td>
+  </tr>
+  <tr>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.59.19.png" width="100%" alt="Screen 7"></td>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.59.23.png" width="100%" alt="Screen 8"></td>
+    <td><img src="./Screenshot%202026-04-27%20at%2016.59.33.png" width="100%" alt="Screen 9"></td>
+  </tr>
+</table>
